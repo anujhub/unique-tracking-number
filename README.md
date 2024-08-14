@@ -10,5 +10,6 @@ Steps to Execute :
 
   Folder Structure:
 
-  controller -> contains starting point of the api to generate unique Id
-  TrackingNumberService -> contails 2 different method to generate unique Id
+  controller -> contains starting point of the api to generate unique Id.
+  
+  TrackingNumberService -> contails 2 different method to generate unique Id.
